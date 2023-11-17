@@ -1,0 +1,43 @@
+Pokemon Level: 37
+Pokemon Name: Vulpix
+Pokemon Type: Fire
+Pokemon Move: Flame_Burst
+
+Pokemon Level: 25
+Pokemon Name: Pikachu
+Pokemon Type: Electric
+Pokemon Move: Thundershock
+Pokemon Move: Quick_Attack
+Pokemon Move: Swift
+Pokemon Move: Electro_Ball
+
+Pokemon Level: 80
+Pokemon Name: Pikachu
+Pokemon Type: Electric
+Pokemon Move: Thundershock
+Pokemon Move: Quick_Attack
+Pokemon Move: Swift
+Pokemon Move: Electro_Ball
+
+Pokemon Level: 7
+Pokemon Name: Squirtle
+Pokemon Type: Water
+Pokemon Move: Bubble
+Pokemon Move: Bite
+Pokemon Move: Tackle
+Pokemon Move: Aqua_Tail
+
+Pokemon Level: 54
+Pokemon Name: Psyduck
+Pokemon Type: Water
+Pokemon Move: Soak
+Pokemon Move: Confusion
+Pokemon Move: Zen_Headbutt
+Pokemon Move: Water_Sport
+
+Pokemon Level: 4
+Pokemon Name: Wumpus
+Pokemon Type: Water
+Pokemon Move: Pooppo
+Pokemon Move: Pee
+

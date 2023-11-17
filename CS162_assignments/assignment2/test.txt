@@ -1,0 +1,41 @@
+Pokemon Level: 1
+Pokemon Name: Bulbasaur
+Pokemon Type: Grass
+Pokemon Move: Vine_Whip
+Pokemon Move: Razor_Leaf
+
+Pokemon Level: 5
+Pokemon Name: Charles
+Pokemon Type: Grass
+Pokemon Move: Hi
+Pokemon Move: My
+Pokemon Move: Name
+
+Pokemon Level: 4
+Pokemon Name: Bulbasaur
+Pokemon Type: Grass
+Pokemon Move: Vine_Whip
+Pokemon Move: Razor_Leaf
+
+Pokemon Level: 1
+Pokemon Name: Bulbasaur
+Pokemon Type: Grass
+Pokemon Move: Vine_Whip
+Pokemon Move: Razor_Leaf
+
+Pokemon Level: 3
+Pokemon Name: Charles
+Pokemon Type: Grass
+Pokemon Move: Poop
+
+Pokemon Level: 1
+Pokemon Name: Bulbasaur
+Pokemon Type: Grass
+Pokemon Move: Vine_Whip
+Pokemon Move: Razor_Leaf
+
+Pokemon Level: 78
+Pokemon Name: Barley
+Pokemon Type: Grass
+Pokemon Move: NNf
+
